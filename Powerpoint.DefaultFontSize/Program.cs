@@ -25,3 +25,4 @@ Parser.Default.ParseArguments<GetFontSizeOptions, SetFontSizeOptions>(args)
             return -1;
         }
     );
+

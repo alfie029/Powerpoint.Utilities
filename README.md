@@ -2,6 +2,8 @@
 
 ## Powerpoint.DefaultFontSize
 
+[![Build-CSharp](https://github.com/alfie029/Powerpoint.Utilities/actions/workflows/build-csharp.yml/badge.svg)](https://github.com/alfie029/Powerpoint.Utilities/actions/workflows/build-csharp.yml)
+
 At some particular case, user wanna change
 the default font-size to value rather than its default (18pt), 
 this tool was in front of Office Open XML and give helps.
